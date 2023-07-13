@@ -69,7 +69,7 @@ nav .navigation ul li a:hover{
 
 /* home */
 #home{
-    background-image: linear-gradient(rgba(99, 103, 46, 0.3),rgba(61, 60, 95, 0.7)),url(images/college1.jpg);    
+    background-image: linear-gradient(rgba(99, 103, 46, 0.3),rgba(61, 60, 95, 0.7)),url(college1.jpg);    
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -224,7 +224,7 @@ nav .navigation ul li a:hover{
 /* registration */
 #registration{
     padding: 6vw 8vw 6vw 8vw;    
-    background-image: linear-gradient(rgba(99, 103, 46, 0.3),rgba(61, 60, 95, 0.7)),url(images/wallpaper3.jpg);    
+    background-image: linear-gradient(rgba(99, 103, 46, 0.3),rgba(61, 60, 95, 0.7)),url(wallpaper3.jpg);    
     width: 100%;
     height: 100%;
     background-size: cover;
